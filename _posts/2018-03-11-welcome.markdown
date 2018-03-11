@@ -9,3 +9,5 @@ tag: [Introduction]
 This blog was created as a programming hobby, which is partly linked to my scientific background.
 
 In this blog, I will try to write about different programming languages, and share some codes on my Github repo.
+
+Read here: [What programming language should you learn first_ – freeCodeCamp.pdf] (/assets/img/What programming language should you learn first_ – freeCodeCamp.pdf)
