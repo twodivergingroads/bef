@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Welcome to Two Diverging Roads"
-img: himalayan.jpg # Add image post (optional)
-date: 2018-03-11 11:17:00 +0000
-description: First post - Welcome # Add post description (optional)
-tag: [Introduction]
+title: Welcome to Two Diverging Roads
+img: himalayan.jpg
+date: '2018-03-11 11:17:00 +0000'
+description: First post - Welcome
+tag:
+  - Introduction
+published: true
 ---
 This blog was created as a programming hobby, which is partly linked to my scientific background.
 
 In this blog, I will try to write about different programming languages, and share some codes on my Github repo.
 
-Read here: [What programming language should you learn first_ – freeCodeCamp.pdf] (/assets/img/What programming language should you learn first_ – freeCodeCamp.pdf)
+Read here: [What language should you learn first](/assets/img/What programming language should you learn first_ – freeCodeCamp.pdf)
