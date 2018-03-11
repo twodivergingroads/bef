@@ -1,5 +1,5 @@
 logo: TDR # add logo name
-title: Two Diverging Roads
+title: Integrating biochemistry with programming
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,8 +15,8 @@ banner-desc: Two roads diverged in a yellow wood / And sorry I could not travel 
 
 # Author settings
 author-pic: Railway_tracks_2_028.jpg # your photo
-author-name: # your name
-about-author: # about author
+author-name: Two Diverging Roads # your name
+about-author: Programmer+biochemist # about author
 email: twodivergingroads@gmail.com # your email
 website: https://twodivergingroads.github.io/ # you website
 
