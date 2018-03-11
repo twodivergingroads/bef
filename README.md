@@ -1,4 +1,4 @@
-# Bef is a responsive jekyll theme
+# Bef is a responsive jekyll themes
 
 Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to be simple and freedom.
 
