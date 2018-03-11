@@ -14,14 +14,14 @@ banner-title: Two Diverging Roads # add banner title
 banner-desc: Two roads diverged in a yellow wood / And sorry I could not travel both [The Road Not Taken / Robert Frost] # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
+author-pic: Railway_tracks_2_028.jpg # your photo
 author-name: # your name
 about-author: # about author
 email: twodivergingroads@gmail.com # your email
 website: https://twodivergingroads.github.io/ # you website
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier
+discus_identifier: # mr-brown # add your discus identifier
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
