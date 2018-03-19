@@ -24,4 +24,4 @@ As a scientist, your main focus is to get a dataset, process it quickly and give
 
 The next questions to ask is how will the user access your program. If your solution requires the users to install this library and that framework (think of .NET), then think again. Do you really want to troubleshoot compatibility issues? I personally think Web is the future, whether deployed publicly or within a secure corporate intranet.
 
-That's all for now, in the next post, we will look at real work programming! If you have comments, feel free to drop me an email.
+That's all for now, in the next post, we will look at real work programming! If you have comments, please comment below or drop me an email (click the Contact page at the top of page).
