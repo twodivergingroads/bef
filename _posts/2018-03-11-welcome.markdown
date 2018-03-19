@@ -12,4 +12,8 @@ This blog was created as a programming hobby, which is partly linked to my scien
 
 In this blog, I will try to write about different programming languages, and share some codes on my Github repo.
 
-Read here: [What language should you learn first](/assets/img/What programming language should you learn first_ – freeCodeCamp.pdf)
+Before going deeper into programming, it is important to firstly identify which language to use. Read more here: [What language should you learn first](/assets/img/What programming language should you learn first_ – freeCodeCamp.pdf).
+
+However, in general, scientific computing requires specialized tools and functions. A graphical interface may or may not be required, depending on the context and scriptability. You also want a language that can easily take in a few inputs and outputs the results.
+
+From a personal perspective, I first learnt Visual Basic (we are talking about 1995). At that time, I was really impressed with VB because it featured a drag-and-drop interface. You want a check box? Just drag the button onto your user form. The syntax was also easy to follow, so easy that people often neglect VB till today. What was missing back then 
